@@ -1,0 +1,16 @@
+First we create the DOM
+
+1.Create the Header with <h1>To-Do List
+2.Next we need to create a horizontal navigation bar with a Home Button(house) a Add Button(+) and a Calendar Button
+3.Create Vertical nav bar which will store the todo title 
+4.Create a box which will store the content of list next to the vertical nav bar
+
+
+///////////////////////////////////////////////
+
+Create Popup  Form to get information;
+
+////////////////////////////////////////////// 
+
+Create A DatePicker Button next to The Add button inside the Popup
+
